@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.btn{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 60px;
+  font-size: 70px;
+} 
+
+.btn:hover{
+  background-color: lightyellow;
+  cursor: pointer;
+} 
+
+h2{
+  color: white;
+}
+
+.h{
+  margin-bottom: 20px;
+}
+
+.re{
+  height: 60px;
+  width: 100px;
+  background-color: red;
+  border-radius: 20px;
+  font-size: 30px;
+  margin-top: 20px;
+  font-style: unset;
+}
